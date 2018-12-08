@@ -1,0 +1,3 @@
+ERROR: 2018/07/05 10:57:26 log1.go:33: Something has failed
+ERROR: 2018/07/05 10:58:38 log1.go:33: Something has failed
+ERROR: 2018/07/05 10:58:57 log1.go:32: Something has failed
